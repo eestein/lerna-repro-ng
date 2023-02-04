@@ -1,0 +1,16 @@
+{
+  "name": "@scope/using-shared",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "ng-packagr"
+  },
+  "peerDependencies": {
+    "@angular/common": "^15.1.0",
+    "@angular/core": "^15.1.0"
+  },
+  "dependencies": {
+    "@scope/shared": "file:../shared",
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
