@@ -1,9 +1,5 @@
 {
   "$schema": "node_modules/lerna/schemas/lerna-schema.json",
   "useWorkspaces": true,
-  "version": "independent",
-  "packages": [
-    "projects/*",
-    "projects/scope/*"
-  ]
+  "version": "independent"
 }
