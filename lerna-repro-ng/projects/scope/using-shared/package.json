@@ -2,7 +2,7 @@
   "name": "@scope/using-shared",
   "version": "0.0.1",
   "scripts": {
-    "build": "ng-packagr"
+    "build": "ng build @scope/using-shared"
   },
   "peerDependencies": {
     "@angular/common": "^15.1.0",

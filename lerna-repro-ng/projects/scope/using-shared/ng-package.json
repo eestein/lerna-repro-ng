@@ -3,5 +3,6 @@
   "dest": "../../../dist/scope/using-shared",
   "lib": {
     "entryFile": "src/public-api.ts"
-  }
+  },
+  "allowedNonPeerDependencies": ["@scope/shared"]
 }
